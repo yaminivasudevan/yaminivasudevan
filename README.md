@@ -11,8 +11,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Yamini — a developer with a strong focus on backend systems, REST/GraphQL API development, and data handling using **Java Spring Boot** and **Oracle DB**.  
-While backend is my strength, I enjoy building full-stack applications using **React** on the frontend.  
+I'm Yamini — a developer with a strong focus on backend systems, REST/GraphQL API development, and data handling using **Java Spring Boot** and **Oracle DB**. While backend is my strength, I enjoy building full-stack applications using **React** on the frontend.  
 
 Currently, I’m building **MoodFood**, an end-to-end application that brings together secure backend APIs, mood and meal logging, and a responsive React interface. I'm also planning to incorporate **AI-powered features**, such as personalized meal recommendations based on user mood patterns and nutrition goals.
 
