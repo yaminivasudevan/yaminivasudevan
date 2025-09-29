@@ -4,8 +4,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-yaminivasudevan-black?logo=github&style=for-the-badge)](https://github.com/yaminivasudevan)  
 [![Email](https://img.shields.io/badge/Email-yaminivasudevan96@gmail.com-c14438?logo=gmail&style=for-the-badge)](mailto:yaminivasudevan96@gmail.com)
 
-🎯 Java Backend-Focused Full-Stack Developer | Spring Boot | Oracle DB | React.js | SQL  
-📍 Based in UAE | 3+ Years of Experience | Passionate about AI 
+🎯 Java | Spring Boot | Oracle DB | React.js | SQL  
+📍 Based in UAE | 4+ Years of Experience | Passionate about AI 
 
 ---
 
@@ -18,12 +18,11 @@ Currently, I’m building **MoodFood**, an end-to-end application that brings to
 ---
 
 - 🔭 I’m actively working on finalizing **MoodFood Meal Recommender app**.
-- 🌱 I’m enrolled in an **Advanced Masterclass on AI with hands-on projects** from Pantech.ai, deepening my skills to incorporate AI-driven features into full-stack applications.  
-- 🌱 I’m also learning **AWS cloud through AWS Educate, and deployment tools like Docker**.  
+- 🌱 I’m learning **AWS cloud through AWS Educate, and deployment tools like Docker**.  
 - 💬 Ask me about **Java Spring Boot development, REST/GraphQL APIs, Spring Data JPA, Oracle DB with PL/SQL, React basics, and building full-stack projects**.  
 - 📫 How to reach me: [yaminivasudevan96@gmail.com](mailto:yaminivasudevan96@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yamini-vasudevan) | [GitHub](https://github.com/yaminivasudevan)  
 - 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love combining music with coding — Carnatic music keeps me motivated while debugging.
+- ⚡ Fun fact: I love combining music with coding.
 
 ---
 
