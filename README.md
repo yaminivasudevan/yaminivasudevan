@@ -30,9 +30,10 @@ Java 8 • Spring Boot • Spring Framework • Spring Data JPA • Hibernate �
 
 ## 💼 Professional Experience
 
-- **Infosys** — Senior Systems Engineer
-- **Pearl Data Direct** — Software Engineer
+
 - **Technology Space, UAE** — Software Engineer
+- **Infosys** — Senior Software Engineer
+- **Pearl Data Direct** — Software Engineer
 
 ---
 
