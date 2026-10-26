@@ -1,29 +1,41 @@
-## Hi, 👋 I'm Yamini
+# Hi, 👋 I'm Yamini
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yamini%20Vasudevan-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yamini-vasudevan)  
-[![GitHub](https://img.shields.io/badge/GitHub-yaminivasudevan-black?logo=github&style=for-the-badge)](https://github.com/yaminivasudevan)  
-[![Email](https://img.shields.io/badge/Email-yaminivasudevan96@gmail.com-c14438?logo=gmail&style=for-the-badge)](mailto:yaminivasudevan96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yamini%20Vasudevan-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yamini-vasudevan)
+[![GitHub](https://img.shields.io/badge/GitHub-yaminivasudevan-black?logo=github&style=for-the-badge)](https://github.com/yaminivasudevan)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-c14438?logo=gmail&style=for-the-badge)](mailto:yaminicodes@gmail.com)
 
-🎯 Java | Spring Boot | Oracle DB | React.js | SQL  
-📍 Based in UAE | 4+ Years of Experience | Passionate about AI 
+🎯 **Java Backend Engineer | Spring Boot | Microservices | REST & GraphQL APIs**
+
+📍 UAE | 💼 4.5+ Years of Experience
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm Yamini — a developer with a strong focus on backend systems, REST/GraphQL API development, and data handling using **Java Spring Boot** and **Oracle DB**. While backend is my strength, I enjoy building full-stack applications using **React** on the frontend.  
+I'm a software engineer with experience developing enterprise and fintech applications using **Java, Spring Boot, microservices, and Oracle databases**.
 
-Currently, I’m building **MoodFood**, an end-to-end application that brings together secure backend APIs, mood and meal logging, and a responsive React interface. Recently, I integrated **AI-powered features** to provide personalized meal analysis and mood-based recommendations, enhancing user experience through intelligent insights.
+At Infosys, I worked on enterprise applications for Estée Lauder, developing and enhancing backend functionality, APIs, and interconnected business workflows. At Pearl Data Direct, I contributed to fintech applications involving salary card services, REST APIs, third-party integrations, and database operations.
 
----
+I also have experience in **React.js, JavaFX, and full-stack application development**, including independently building a queue management system using Java, Spring Boot, JavaFX, and MySQL.
 
-- 🔭 I’m actively working on finalizing **MoodFood Meal Recommender app**.
-- 🌱 I’m learning **AWS cloud through AWS Educate, and deployment tools like Docker**.  
-- 💬 Ask me about **Java Spring Boot development, REST/GraphQL APIs, Spring Data JPA, Oracle DB with PL/SQL, React basics, and building full-stack projects**.  
-- 📫 How to reach me: [yaminivasudevan96@gmail.com](mailto:yaminivasudevan96@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yamini-vasudevan) | [GitHub](https://github.com/yaminivasudevan)  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love combining music with coding.
+I'm interested in backend engineering, scalable application development, system design, and practical AI integration.
 
 ---
 
-*Thanks for visiting my profile! Feel free to connect or collaborate.*
+## 🛠️ Technical Skills
+
+Java 8 • Spring Boot • Spring Framework • Spring Data JPA • Hibernate • Microservices • REST APIs • GraphQL • Oracle Database • SQL • PL/SQL • MySQL • PostgreSQL • React.js • JavaFX • Git • Maven • Azure DevOps • CI/CD • Generative AI Integration
+
+---
+
+## 💼 Professional Experience
+
+- **Infosys** — Senior Systems Engineer
+- **Pearl Data Direct** — Software Engineer
+- **Technology Space, UAE** — Software Engineer
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to connecting with developers and engineering teams working on Java backend development, fintech, enterprise applications, and software engineering.
